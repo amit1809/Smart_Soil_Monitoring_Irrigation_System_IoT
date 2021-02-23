@@ -1,2 +1,2 @@
-# Smart_Soil_Monitoring_Irrigation_System_IoT
+# Smart_Soil_Monitoring_Irrigation_System_IoT ver 1
 This is smart automatic irrigation system using the Internet of Things (IoT). We have developed a prototype that tracks the soil moisture and ambient temperature using sensors and sends this data to the cloud for further analysis and action. This smart irrigation system has a simple notification service incorporated that sends email or message notification to the user whenever the moisture level falls below the defined threshold value. It also automatically turns on the watering system at the same time. We have also built a dashboard through which the user can track the real-time sensor data and see graphs of the last ten days of historical data.
